@@ -1,0 +1,6 @@
+<FilesMatch "\.(sh|pl)$">
+    Options +ExecCGI
+    SetHandler cgi-script
+    SetEnv TOP_SECRET I_AM_A_CAT
+</FilesMatch>
+
