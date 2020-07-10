@@ -1,6 +1,8 @@
 # qiita-sample
 
-[Qiita](https://qiita.com/keys) に書いた記事のサンプルコードをまとめています
+[Qiita](https://qiita.com/keys) に書いた記事のサンプルコードをまとめています。
+
+すべて MIT ライセンスでの提供です。自由に使ってください。
 
 ## 201908_sakura_lightplan_hack
 
