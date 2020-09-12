@@ -4,7 +4,6 @@ use strict;
 use warnings;
 use Time::HiRes qw(usleep);
 
-
 # "sudo police" says:
 my $msg = "\n*** You ran a shell with root privileges! Arrested! ***\n";
 
@@ -12,7 +11,6 @@ my $wait = 50 * 1000;
 my $secure_log = '/var/log/secure';
 my $target_user = $ARGV[0] || 'any';
 my $target_tty = $ARGV[1] || 'any';
-
 
 sub arrest
 {
