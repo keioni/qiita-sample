@@ -23,3 +23,7 @@
 ## set_route53_record.py
 
 [EC2インスタンス起動時にIPアドレスを自動でRoute53に登録する](https://qiita.com/keys/items/43adf968d366e80f0003)
+
+## sudo_gips.pl
+
+[sudoポリス「誰だ！ 本番環境でsudo suしてるのは！」](https://qiita.com/keys/items/ba03b71fd34ebbff4c6e)
