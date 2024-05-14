@@ -1,7 +1,7 @@
 # qiita-sample
 
 [Qiita](https://qiita.com/keys) に書いた記事のサンプルコードをまとめています。<br>
-最近はほとんど [Zenn.dev](https://zenn.dev/keioni) に書いています。それらの記事のサンプルコードは https://github.com/keioni/zenn-sample を参照してください
+最近はほとんど [Zenn.dev](https://zenn.dev/keioni) に書いています。Qiita 以外の技術ブログに書いた記事のサンプルコードは https://github.com/keioni/blog-sample を参照してください
 
 すべて MIT ライセンスでの提供です。自由に使ってください。
 
